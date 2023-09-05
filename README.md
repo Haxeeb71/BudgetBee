@@ -1,10 +1,10 @@
 # budgetbee
 
 An ecommerce application for shopping products of households and technology.
-
+![budget-bee](https://socialify.git.ci/legistech/budget-bee/image?language=1&owner=1&name=1&stargazers=1&theme=Light)
  <img src="https://github.com/Haxeeb71/BudgetBee/assets/135656763/c7bbf33d-c583-4172-a447-3ea56bc92999" alt="Logo" width="600" height="350">
 
-## Setup
+## Setup 
 
 Run the following commands from your terminal:
 1. git clone https://github.com/Haxeeb71/BudgetBee.git to clone this repository

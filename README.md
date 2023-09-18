@@ -11,14 +11,7 @@ Run the following commands from your terminal:
 2. flutter pub get in the project root directory to install all the required dependencies.
 
 ## Screenshots
-![1_iphone13promaxgraphite_portrait]()
-![2_iphone13promaxgraphite_portrait]()
-![3_iphone13promaxgraphite_portrait](https://github.com/Haxeeb71/BudgetBee/assets/135656763/85a53294-6868-4e63-8f62-70d5612a2aff)
-![4_iphone13promaxgraphite_portrait]()
-![2 1_iphone13promaxgraphite_portrait]()
-![5_iphone13promaxgraphite_portrait]()
-![6_iphone13promaxgraphite_portrait]()
-![7_iphone13promaxgraphite_portrait]()
+
 
 <table width="100%">
   <tr>

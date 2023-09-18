@@ -11,24 +11,32 @@ Run the following commands from your terminal:
 2. flutter pub get in the project root directory to install all the required dependencies.
 
 ## Screenshots
+![1_iphone13promaxgraphite_portrait]()
+![2_iphone13promaxgraphite_portrait]()
+![3_iphone13promaxgraphite_portrait](https://github.com/Haxeeb71/BudgetBee/assets/135656763/85a53294-6868-4e63-8f62-70d5612a2aff)
+![4_iphone13promaxgraphite_portrait]()
+![2 1_iphone13promaxgraphite_portrait]()
+![5_iphone13promaxgraphite_portrait]()
+![6_iphone13promaxgraphite_portrait]()
+![7_iphone13promaxgraphite_portrait]()
 
 <table width="100%">
   <tr>
-    <td width="1%"><img src="https://github.com/Haxeeb71/BudgetBee/assets/135656763/64230afa-a8a0-424a-a2a2-adba2f4db1f8"/></td>
-     <td width="1%"><img src="https://github.com/Haxeeb71/BudgetBee/assets/135656763/34908fc3-3ed1-4af6-9665-17a557d1f64e"/></td>
-     <td width="1%"><img src="https://github.com/Haxeeb71/BudgetBee/assets/135656763/c62da15f-a3cf-4a66-b99c-588e7cfd5865"/></td>
+    <td width="1%"><img src="https://github.com/Haxeeb71/BudgetBee/assets/135656763/eff734fd-84cc-4a69-a0b6-376ea8aace41"/></td>
+     <td width="1%"><img src="https://github.com/Haxeeb71/BudgetBee/assets/135656763/e2778da8-a573-476a-b04b-e5f58525137d"/></td>
+     <td width="1%"><img src="https://github.com/Haxeeb71/BudgetBee/assets/135656763/5fed24b4-4038-4628-9174-5e43ccaaf898"/></td>
     
 
   </tr>
   <tr>
-   <td width="1%"><img src="https://github.com/legistech/budget-bee/assets/135656763/bc6adcc1-7c17-48e3-a824-ddc45b6fe174"/></td>
-     <td width="1%"><img src="https://github.com/Haxeeb71/BudgetBee/assets/135656763/06b55aa3-a81e-413f-89ce-e14434b4eef9"/></td>
-     <td width="1%"><img src="https://github.com/legistech/budget-bee/assets/135656763/6a54787e-0325-4e81-99b6-dee7bd657ded"/></td>
+   <td width="1%"><img src=https://github.com/Haxeeb71/BudgetBee/assets/135656763/85a53294-6868-4e63-8f62-70d5612a2aff"/></td>
+     <td width="1%"><img src="https://github.com/Haxeeb71/BudgetBee/assets/135656763/ca082bb0-fb06-4ed9-8739-d92c5f88d1d3"/></td>
+     <td width="1%"><img src="https://github.com/Haxeeb71/BudgetBee/assets/135656763/e8882f68-c094-4046-9e45-25891edb83f9"/></td>
   </tr>
     
   <tr>
-     <td width="1%"><img src="https://github.com/legistech/budget-bee/assets/135656763/404186ab-b19b-4381-97f4-36a1202b5d21"/></td>
-    <td width="1%"><img src="https://github.com/legistech/budget-bee/assets/135656763/3cb54277-6285-4520-9e09-cba8fe9d5699"/></td>
+     <td width="1%"><img src="https://github.com/Haxeeb71/BudgetBee/assets/135656763/7538867c-f271-49a5-8980-39f3dccab9e1"/></td>
+    <td width="1%"><img src="https://github.com/Haxeeb71/BudgetBee/assets/135656763/b7fbd5f1-4e18-4edd-ba21-4c51f552bbcc"/></td>
         <td width="1%"><img src=""/></td>
   </tr>
     
